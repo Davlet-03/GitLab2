@@ -1,4 +1,5 @@
 ﻿# Book Catalog
-Project status: master
+Project status: merged
 Author: Davlet
 Main branch note: stable version
+Branch-specific note: experimental version

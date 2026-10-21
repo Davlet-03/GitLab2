@@ -1,0 +1,2 @@
+﻿This file exists only in branch1.
+Branch: branch1
