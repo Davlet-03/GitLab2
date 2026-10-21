@@ -1,4 +1,4 @@
-п»ї# Book Catalog
-Project status: branch1
-Author: Davlet
-Branch-specific note: experimental version
+# Каталог книг
+Учебный проект для лабораторной работы №2.
+Автор: Davlet
+В каталоге хранятся сведения о книгах.
