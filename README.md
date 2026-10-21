@@ -1,4 +1,4 @@
-# Каталог книг
-Учебный проект для лабораторной работы №2.
-Автор: Davlet
-В каталоге хранятся сведения о книгах.
+п»ї# Book Catalog
+Project status: master
+Author: Davlet
+Main branch note: stable version
